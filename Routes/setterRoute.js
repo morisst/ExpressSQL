@@ -14,8 +14,8 @@ router.post('/table', async(req, res, next)=>{
 
 
 router.post('/row', async(req, res, next)=>{
-    const {table, values} =  req.body
-    const query = insertQuery(table, values);
+    const {table, values, cols} =  req.body
+    const query = insertQuery(table, values, cols);
     req.query = query;
     next()
 }, queryHandler)

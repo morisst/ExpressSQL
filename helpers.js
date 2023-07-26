@@ -24,19 +24,19 @@ const newTableQuery = (name = "", columns = []) => {
 
 
 
-const updateTableQuery = (table, type, name, oldName, dataType) => {
+const updateTableQuery = (table, type, colName, oldColName, dataType) => {
     if (type == 'add') {
         return `ALTER TABLE ${table}
-        ADD ${name} ${dataType}`
+        ADD ${colName} ${dataType}`
     } else if (type == "rename") {
         return `ALTER TABLE ${table}
-        RENAME COLUMN ${oldName} to ${name};`
+        RENAME COLUMN ${oldColName} to ${colName};`
     } else if (type == "alter_type") {
         return `ALTER TABLE ${table}
-        MODIFY COLUMN ${name} ${dataType};`
+        MODIFY COLUMN ${colName} ${dataType};`
     } else if (type == "drop") {
         return `ALTER TABLE ${table}
-        DROP COLUMN ${name};`
+        DROP COLUMN ${colName};`
     }
     return "";
 }
@@ -49,8 +49,8 @@ const dropTableQuery = (table) => {
 
 
 
-const insertQuery = (table, values) => {
-    return `INSERT INTO ${table} ( name, age) 
+const insertQuery = (table, values, cols=[]) => {
+return `INSERT INTO ${table} ( ${cols.join(", ")}) 
     VALUES(
         ${values.join(", ")}
         )`

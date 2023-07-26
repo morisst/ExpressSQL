@@ -6,8 +6,8 @@ const router = express.Router();
 
 
 router.put('/table', async(req, res, next)=>{
-    const {table, type, name, oldName, dataType} =  req.body
-    const query = updateTableQuery(table, type, name, oldName, dataType);
+    const {table, type, colName, oldColName, dataType} =  req.body
+    const query = updateTableQuery(table, type, colName, oldColName, dataType);
     req.query = query;
     next()
 }, queryHandler)
