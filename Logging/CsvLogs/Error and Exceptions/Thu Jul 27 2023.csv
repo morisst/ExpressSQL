@@ -1,0 +1,30 @@
+27/7/2023, 3:24:09 pm,  QUERY, ER_NO_SUCH_TABLE: Table 'testing_db2233.mployees' doesn't exist 
+27/7/2023, 3:50:19 pm,  DATABASE, undefined 
+27/7/2023, 3:53:36 pm,  DATABASE, undefined 
+27/7/2023, 4:03:21 pm,  DATABASE, undefined 
+27/7/2023, 4:03:27 pm,  DATABASE, undefined 
+27/7/2023, 4:03:36 pm,  DATABASE, undefined 
+27/7/2023, 4:03:56 pm,  DATABASE, undefined 
+27/7/2023, 4:04:29 pm,  QUERY, ER_NO_SUCH_TABLE: Table 'testing_db2233.employes' doesn't exist 
+27/7/2023, 4:12:43 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 4:12:47 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 4:17:24 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:18:05 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:20:43 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:21:00 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:21:40 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:22:15 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:22:43 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:22:57 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:23:05 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:24:31 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:24:45 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:25:04 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:25:24 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:25:34 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:25:48 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:25:58 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:26:26 pm,  DATABASE, undefined 
+27/7/2023, 4:29:03 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 4:30:58 pm,  DATABASE, undefined 
+27/7/2023, 4:37:47 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 

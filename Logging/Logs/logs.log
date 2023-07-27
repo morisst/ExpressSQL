@@ -1,0 +1,126 @@
+[2023-07-27 03:51:37.847 PM] info: App Started Listening
+[2023-07-27 03:53:36.669 PM] error: DATABASE: Error: getaddrinfo ENOTFOUND db4free.n
+[2023-07-27 03:54:01.744 PM] info: App Started Listening
+[2023-07-27 03:54:24.055 PM] info: App Started Listening
+[2023-07-27 03:56:09.605 PM] info: App Started Listening
+[2023-07-27 03:56:15.915 PM] info: App Started Listening
+[2023-07-27 03:56:22.943 PM] info: App Started Listening
+[2023-07-27 04:03:04.096 PM] info: App Started Listening
+[2023-07-27 04:03:12.134 PM] info: App Started Listening
+[2023-07-27 04:03:17.542 PM] info: App Started Listening
+[2023-07-27 04:03:21.083 PM] error: DATABASE: Error: getaddrinfo ENOTFOUND db4free.n
+[2023-07-27 04:03:27.410 PM] error: DATABASE: Error: getaddrinfo ENOTFOUND db4free.n
+[2023-07-27 04:03:36.527 PM] error: DATABASE: Error: getaddrinfo ENOTFOUND db4free.n
+[2023-07-27 04:03:56.331 PM] error: DATABASE: Error: getaddrinfo ENOTFOUND db4free.n
+[2023-07-27 04:04:05.746 PM] info: App Started Listening
+[2023-07-27 04:04:18.020 PM] info: Connected to database
+[2023-07-27 04:04:18.254 PM] info: Query resoved successfully
+[2023-07-27 04:04:29.298 PM] info: Connected to database
+[2023-07-27 04:04:29.658 PM] warn: Query execution failed
+[2023-07-27 04:05:07.109 PM] info: Connected to database
+[2023-07-27 04:05:07.431 PM] info: Query resoved successfully
+[2023-07-27 04:06:42.335 PM] info: App Started Listening
+[2023-07-27 04:06:44.580 PM] info: App Started Listening
+[2023-07-27 04:10:10.855 PM] info: App Started Listening
+[2023-07-27 04:10:15.270 PM] info: App Started Listening
+[2023-07-27 04:10:42.039 PM] info: App Started Listening
+[2023-07-27 04:11:28.541 PM] info: App Started Listening
+[2023-07-27 04:11:49.091 PM] info: App Started Listening
+[2023-07-27 04:11:51.246 PM] info: App Started Listening
+[2023-07-27 04:12:29.248 PM] info: App Started Listening
+[2023-07-27 04:12:31.172 PM] info: App Started Listening
+[2023-07-27 04:12:41.327 PM] info: App Started Listening
+[2023-07-27 04:12:42.068 PM] info: App Started Listening
+[2023-07-27 04:12:43.523 PM] warn: Improper parameters in request body
+[2023-07-27 04:12:47.699 PM] warn: Improper parameters in request body
+[2023-07-27 04:12:54.327 PM] info: Connected to database
+[2023-07-27 04:12:54.547 PM] info: Query resoved successfully
+[2023-07-27 04:13:16.969 PM] info: App Started Listening
+[2023-07-27 04:13:26.935 PM] info: App Started Listening
+[2023-07-27 04:14:56.344 PM] info: App Started Listening
+[2023-07-27 04:15:03.826 PM] info: App Started Listening
+[2023-07-27 04:15:38.024 PM] info: App Started Listening
+[2023-07-27 04:15:41.086 PM] info: App Started Listening
+[2023-07-27 04:15:53.001 PM] info: Connected to database
+[2023-07-27 04:15:53.450 PM] info: Query resoved successfully
+[2023-07-27 04:17:24.479 PM] info: Connected to database
+[2023-07-27 04:17:24.669 PM] warn: Query execution failed
+[2023-07-27 04:17:55.028 PM] info: App Started Listening
+[2023-07-27 04:18:05.450 PM] info: Connected to database
+[2023-07-27 04:18:05.663 PM] warn: Query execution failed
+[2023-07-27 04:20:33.021 PM] info: App Started Listening
+[2023-07-27 04:20:43.190 PM] info: Connected to database
+[2023-07-27 04:20:43.428 PM] warn: Query execution failed
+[2023-07-27 04:20:56.198 PM] info: App Started Listening
+[2023-07-27 04:20:59.819 PM] info: Connected to database
+[2023-07-27 04:21:00.052 PM] warn: Query execution failed
+[2023-07-27 04:21:39.926 PM] info: Connected to database
+[2023-07-27 04:21:40.117 PM] warn: Query execution failed
+[2023-07-27 04:22:15.770 PM] info: Connected to database
+[2023-07-27 04:22:15.975 PM] warn: Query execution failed
+[2023-07-27 04:22:38.260 PM] info: App Started Listening
+[2023-07-27 04:22:43.504 PM] info: Connected to database
+[2023-07-27 04:22:43.855 PM] warn: Query execution failed
+[2023-07-27 04:22:53.949 PM] info: App Started Listening
+[2023-07-27 04:22:56.968 PM] info: Connected to database
+[2023-07-27 04:22:57.190 PM] warn: Query execution failed
+[2023-07-27 04:23:02.000 PM] info: App Started Listening
+[2023-07-27 04:23:04.832 PM] info: Connected to database
+[2023-07-27 04:23:05.038 PM] warn: Query execution failed
+[2023-07-27 04:23:35.711 PM] info: App Started Listening
+[2023-07-27 04:24:27.956 PM] info: App Started Listening
+[2023-07-27 04:24:31.244 PM] info: Connected to database
+[2023-07-27 04:24:31.465 PM] warn: Query execution failed
+[2023-07-27 04:24:37.859 PM] info: App Started Listening
+[2023-07-27 04:24:45.276 PM] info: Connected to database
+[2023-07-27 04:24:45.520 PM] warn: Query execution failed
+[2023-07-27 04:24:53.786 PM] info: App Started Listening
+[2023-07-27 04:25:04.065 PM] info: Connected to database
+[2023-07-27 04:25:04.386 PM] warn: Query execution failed
+[2023-07-27 04:25:22.035 PM] info: App Started Listening
+[2023-07-27 04:25:24.499 PM] info: Connected to database
+[2023-07-27 04:25:24.718 PM] warn: Query execution failed
+[2023-07-27 04:25:31.468 PM] info: App Started Listening
+[2023-07-27 04:25:33.717 PM] info: Connected to database
+[2023-07-27 04:25:34.134 PM] warn: Query execution failed
+[2023-07-27 04:25:40.250 PM] info: App Started Listening
+[2023-07-27 04:25:47.626 PM] info: Connected to database
+[2023-07-27 04:25:48.269 PM] warn: Query execution failed
+[2023-07-27 04:25:55.537 PM] info: App Started Listening
+[2023-07-27 04:25:57.839 PM] info: Connected to database
+[2023-07-27 04:25:58.244 PM] warn: Query execution failed
+[2023-07-27 04:26:24.362 PM] info: App Started Listening
+[2023-07-27 04:26:26.180 PM] error: DATABASE: Error: getaddrinfo ENOTFOUND db4free.nt
+[2023-07-27 04:28:52.904 PM] info: App Started Listening
+[2023-07-27 04:29:03.168 PM] info: Connected to database
+[2023-07-27 04:29:03.381 PM] warn: Query execution failed
+[2023-07-27 04:29:14.718 PM] info: Connected to database
+[2023-07-27 04:29:15.449 PM] info: Query resoved successfully
+[2023-07-27 04:29:27.349 PM] info: App Started Listening
+[2023-07-27 04:29:36.388 PM] info: Connected to database
+[2023-07-27 04:29:36.792 PM] info: Query resolved successfully
+[2023-07-27 04:29:37.473 PM] info: Connected to database
+[2023-07-27 04:29:37.893 PM] info: Query resolved successfully
+[2023-07-27 04:29:44.766 PM] info: Connected to database
+[2023-07-27 04:29:45.099 PM] info: Query resolved successfully
+[2023-07-27 04:30:58.651 PM] error: DATABASE: Error: getaddrinfo ENOTFOUND db4free.net
+[2023-07-27 04:31:16.679 PM] info: Connected to database
+[2023-07-27 04:31:17.108 PM] info: Query resolved successfully
+[2023-07-27 04:31:33.490 PM] info: Connected to database
+[2023-07-27 04:31:34.016 PM] info: Query resolved successfully
+[2023-07-27 04:33:57.844 PM] info: Connected to database
+[2023-07-27 04:33:58.206 PM] info: Query resolved successfully
+[2023-07-27 04:37:46.662 PM] info: Connected to database
+[2023-07-27 04:37:47.032 PM] warn: Query execution failed
+[2023-07-27 04:38:17.221 PM] info: Connected to database
+[2023-07-27 04:38:17.721 PM] info: Query resolved successfully
+[2023-07-27 04:38:36.144 PM] info: App Started Listening
+[2023-07-27 04:38:44.785 PM] info: Request recieved from localhost on path "/create/row" with POST method 
+[2023-07-27 04:38:50.394 PM] info: Connected to database
+[2023-07-27 04:38:50.751 PM] info: Query resolved successfully
+[2023-07-27 04:39:08.682 PM] info: App Started Listening
+[2023-07-27 04:46:31.755 PM] info: App Started Listening
+[2023-07-27 04:47:24.281 PM] info: App Started Listening
+[2023-07-27 04:47:26.570 PM] info: Request recieved from localhost on path "/create/row" with POST method 
+[2023-07-27 04:47:32.961 PM] info: Connected to database
+[2023-07-27 04:47:33.305 PM] info: Query resolved successfully

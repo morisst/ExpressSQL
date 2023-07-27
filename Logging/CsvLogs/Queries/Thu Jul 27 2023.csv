@@ -1,0 +1,35 @@
+27/7/2023, 3:23:56 pm,  UPDATE employees SET salary = null WHERE name='Morris', SUCCESS 
+27/7/2023, 3:24:09 pm,  UPDATE mployees SET salary = null WHERE name='Morris', FAILURE, ER_NO_SUCH_TABLE: Table 'testing_db2233.mployees' doesn't exist   
+27/7/2023, 4:04:18 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:04:29 pm,  SELECT * FROM employes, FAILURE, ER_NO_SUCH_TABLE: Table 'testing_db2233.employes' doesn't exist   
+27/7/2023, 4:05:07 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:12:54 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:15:53 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:17:24 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:18:05 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:20:43 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:21:00 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:21:40 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:22:15 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:22:43 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:22:57 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:23:05 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:24:31 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:24:45 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:25:04 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:25:24 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:25:34 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:25:48 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:25:58 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:29:03 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:29:15 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
+27/7/2023, 4:29:36 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:29:37 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
+27/7/2023, 4:29:45 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:31:17 pm,  DELETE FROM employees WHERE id > 4;, SUCCESS 
+27/7/2023, 4:31:34 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:33:58 pm,  SELECT * FROM employees, SUCCESS 
+27/7/2023, 4:37:47 pm,  CREATE TABLE employees (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, salary int, location varchar(255), createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), FAILURE, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists   
+27/7/2023, 4:38:17 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
+27/7/2023, 4:38:50 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
+27/7/2023, 4:47:33 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
