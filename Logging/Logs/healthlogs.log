@@ -1,0 +1,25 @@
+[2023-07-28 12:40:00.829 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 12:40:01.317 PM] info: Database connection health is OK
+[2023-07-28 12:45:00.502 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 12:45:05.982 PM] info: Database connection health is OK
+[2023-07-28 12:50:00.035 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 12:50:06.385 PM] info: Database connection health is OK
+[2023-07-28 12:55:00.746 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 12:55:01.291 PM] info: Database connection health is OK
+[2023-07-28 01:00:00.731 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 01:00:06.273 PM] info: Database connection health is OK
+[2023-07-28 01:05:00.585 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 01:05:01.127 PM] info: Database connection health is OK
+[2023-07-28 01:10:00.611 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 01:10:01.143 PM] info: Database connection health is OK
+[2023-07-28 01:15:00.390 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 01:15:09.169 PM] info: Database connection health is OK
+[2023-07-28 01:20:00.500 PM] info: Service Health: {"uptime":0.2648195,"responseTime":[515823,374199100],"health":"OK","timeStamp":1690528069819}
+[2023-07-28 01:20:10.510 PM] error:  Database error: Error: Handshake inactivity timeout 
+[2023-07-28 01:25:00.439 PM] info: Service Health: {"uptime":0.4871477,"responseTime":[518435,312523600],"health":"OK","timeStamp":1690530681757}
+[2023-07-28 01:25:05.931 PM] info: Database connection health is OK
+[2023-07-28 01:30:00.444 PM] info: Service Health: {"uptime":0.2888191,"responseTime":[518891,492811300],"health":"OK","timeStamp":1690531137938}
+[2023-07-28 01:30:06.078 PM] info: Database connection health is OK
+[2023-07-28 01:35:00.221 PM] info: Service Health: {"uptime":0.289412,"responseTime":[519216,405539500],"health":"OK","timeStamp":1690531462850}
+[2023-07-28 01:35:05.728 PM] info: Database connection health is OK
+[2023-07-28 01:40:00.693 PM] info: Service Health: {"uptime":0.287356,"responseTime":[519547,113453300],"health":"OK","timeStamp":1690531793558}

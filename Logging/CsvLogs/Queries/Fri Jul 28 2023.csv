@@ -1,0 +1,1 @@
+28/7/2023, 1:15:53 pm,  SELECT table_name FROM information_schema.tables WHERE table_schema = 'testing_db2233', SUCCESS 

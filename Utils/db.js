@@ -1,7 +1,7 @@
-import mysql from 'mysql'
-import config from './config.js';
-import { addErrorLogs } from '../Logging/CsvLogs/csvLogging.js';
-import logger from '../Logging/Logs/logger.js';
+import mysql from "mysql";
+import config from "./config.js";
+import { addErrorLogs } from "../Logging/CsvLogs/csvLogging.js";
+import logger from "../Logging/Logs/logger.js";
 
 
 async function connect(req, res, next) {
@@ -9,15 +9,29 @@ async function connect(req, res, next) {
         const pool = mysql.createPool({
             connectionLimit: 10,
             ...config.db
-        })
+        });
         req.pool = pool;
-        next()
+        next();
     } catch (error) {
-        console.log(error)
-        logger.error("DATABASE: " + error)
+        console.log(error);
+        logger.error("DATABASE: " + error);
         addErrorLogs("DATABASE", error);
-        res.status(500).json(error)
+        res.status(500).json(error);
     }
 }
 
-export default connect
+async function pool() {
+    try {
+        const pool = mysql.createPool({
+            connectionLimit: 10,
+            ...config.db
+        });
+        return pool;
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+export { pool };
+
+export default connect;

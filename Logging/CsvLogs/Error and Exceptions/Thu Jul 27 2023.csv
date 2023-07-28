@@ -28,3 +28,15 @@
 27/7/2023, 4:29:03 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
 27/7/2023, 4:30:58 pm,  DATABASE, undefined 
 27/7/2023, 4:37:47 pm,  QUERY, ER_TABLE_EXISTS_ERROR: Table 'employees' already exists 
+27/7/2023, 6:04:56 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 6:05:08 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 6:05:26 pm,  DATABASE, undefined 
+27/7/2023, 6:05:42 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 6:05:44 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 6:05:45 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 6:05:46 pm,  REQUEST, Improper parameters in request body 
+27/7/2023, 6:06:43 pm,  QUERY, ER_EMPTY_QUERY: Query was empty 
+27/7/2023, 6:07:18 pm,  QUERY, ER_NO_SUCH_TABLE: Table 'testing_db2233.mployees' doesn't exist 
+27/7/2023, 6:08:54 pm,  QUERY, ER_NO_SUCH_TABLE: Table 'testing_db2233.sampple_table' doesn't exist 
+27/7/2023, 6:09:05 pm,  QUERY, ER_BAD_FIELD_ERROR: Unknown column 'salary' in 'field list' 
+27/7/2023, 6:09:17 pm,  QUERY, ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1 

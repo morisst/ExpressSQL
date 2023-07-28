@@ -33,3 +33,16 @@
 27/7/2023, 4:38:17 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
 27/7/2023, 4:38:50 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
 27/7/2023, 4:47:33 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
+27/7/2023, 5:55:53 pm,  INSERT INTO employees ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), SUCCESS 
+27/7/2023, 6:06:28 pm,  SELECT DISTINCT name, age from employees, SUCCESS 
+27/7/2023, 6:06:43 pm,  , FAILURE, ER_EMPTY_QUERY: Query was empty   
+27/7/2023, 6:06:49 pm,  SELECT DISTINCT name, age from employees, SUCCESS 
+27/7/2023, 6:07:02 pm,  SELECT DISTINCT name, age from employees, SUCCESS 
+27/7/2023, 6:07:12 pm,  SELECT DISTINCT name, age from employees, SUCCESS 
+27/7/2023, 6:07:18 pm,  SELECT DISTINCT name, age from mployees, FAILURE, ER_NO_SUCH_TABLE: Table 'testing_db2233.mployees' doesn't exist   
+27/7/2023, 6:07:24 pm,  SELECT table_name FROM information_schema.tables WHERE table_schema = 'testing_db2233', SUCCESS 
+27/7/2023, 6:08:12 pm,  CREATE TABLE sample_table (id int AUTO_INCREMENT NOT NULL, name varchar(255), age int, createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id)), SUCCESS 
+27/7/2023, 6:08:37 pm,  SELECT table_name FROM information_schema.tables WHERE table_schema = 'testing_db2233', SUCCESS 
+27/7/2023, 6:08:54 pm,  INSERT INTO sampple_table ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), FAILURE, ER_NO_SUCH_TABLE: Table 'testing_db2233.sampple_table' doesn't exist   
+27/7/2023, 6:09:05 pm,  INSERT INTO sample_table ( name, age, salary, location) VALUES('Mike', 25, 500000, 'Mohali'), FAILURE, ER_BAD_FIELD_ERROR: Unknown column 'salary' in 'field list'   
+27/7/2023, 6:09:17 pm,  INSERT INTO sample_table ( name, age) VALUES('Mike', 25, 500000, 'Mohali'), FAILURE, ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1   

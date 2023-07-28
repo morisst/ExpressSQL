@@ -124,3 +124,155 @@
 [2023-07-27 04:47:26.570 PM] info: Request recieved from localhost on path "/create/row" with POST method 
 [2023-07-27 04:47:32.961 PM] info: Connected to database
 [2023-07-27 04:47:33.305 PM] info: Query resolved successfully
+[2023-07-27 05:55:35.424 PM] info: App Started Listening
+[2023-07-27 05:55:43.611 PM] info: Request recieved from localhost on path "/create/row" with POST method 
+[2023-07-27 05:55:52.753 PM] info: Connected to database
+[2023-07-27 05:55:53.283 PM] info: Query resolved successfully
+[2023-07-27 06:04:56.876 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:04:56.878 PM] warn: Improper parameters in request body
+[2023-07-27 06:05:08.560 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:05:08.562 PM] warn: Improper parameters in request body
+[2023-07-27 06:05:16.734 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:05:26.745 PM] error: DATABASE: Error: Handshake inactivity timeout
+[2023-07-27 06:05:42.635 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:05:42.637 PM] warn: Improper parameters in request body
+[2023-07-27 06:05:44.253 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:05:44.254 PM] warn: Improper parameters in request body
+[2023-07-27 06:05:45.319 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:05:45.320 PM] warn: Improper parameters in request body
+[2023-07-27 06:05:46.070 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:05:46.072 PM] warn: Improper parameters in request body
+[2023-07-27 06:06:13.709 PM] info: App Started Listening
+[2023-07-27 06:06:18.815 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:06:27.720 PM] info: Connected to database
+[2023-07-27 06:06:28.038 PM] info: Query resolved successfully
+[2023-07-27 06:06:40.072 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:06:43.227 PM] info: Connected to database
+[2023-07-27 06:06:43.421 PM] warn: Query execution failed
+[2023-07-27 06:06:48.966 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:06:49.698 PM] info: Connected to database
+[2023-07-27 06:06:49.974 PM] info: Query resolved successfully
+[2023-07-27 06:06:53.918 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:07:02.453 PM] info: Connected to database
+[2023-07-27 06:07:02.675 PM] info: Query resolved successfully
+[2023-07-27 06:07:06.806 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:07:11.476 PM] info: Request recieved from localhost on path "/get/" with GET method 
+[2023-07-27 06:07:12.275 PM] info: Connected to database
+[2023-07-27 06:07:12.675 PM] info: Query resolved successfully
+[2023-07-27 06:07:17.877 PM] info: Connected to database
+[2023-07-27 06:07:18.468 PM] warn: Query execution failed
+[2023-07-27 06:07:18.818 PM] info: Request recieved from localhost on path "/get/alltables" with GET method 
+[2023-07-27 06:07:24.278 PM] info: Connected to database
+[2023-07-27 06:07:24.550 PM] info: Query resolved successfully
+[2023-07-27 06:08:00.278 PM] info: Request recieved from localhost on path "/create/table" with POST method 
+[2023-07-27 06:08:08.836 PM] info: Connected to database
+[2023-07-27 06:08:12.295 PM] info: Query resolved successfully
+[2023-07-27 06:08:28.612 PM] info: Request recieved from localhost on path "/get/alltables" with GET method 
+[2023-07-27 06:08:37.167 PM] info: Connected to database
+[2023-07-27 06:08:37.595 PM] info: Query resolved successfully
+[2023-07-27 06:08:53.733 PM] info: Request recieved from localhost on path "/create/row" with POST method 
+[2023-07-27 06:08:54.300 PM] info: Connected to database
+[2023-07-27 06:08:54.590 PM] warn: Query execution failed
+[2023-07-27 06:08:59.458 PM] info: Request recieved from localhost on path "/create/row" with POST method 
+[2023-07-27 06:09:05.039 PM] info: Connected to database
+[2023-07-27 06:09:05.355 PM] warn: Query execution failed
+[2023-07-27 06:09:16.715 PM] info: Request recieved from localhost on path "/create/row" with POST method 
+[2023-07-27 06:09:17.291 PM] info: Connected to database
+[2023-07-27 06:09:17.624 PM] warn: Query execution failed
+[2023-07-28 10:53:25.179 AM] info: App Started Listening
+[2023-07-28 10:56:02.589 AM] info: App Started Listening
+[2023-07-28 10:58:40.410 AM] info: App Started Listening
+[2023-07-28 11:00:56.069 AM] info: App Started Listening
+[2023-07-28 11:01:05.883 AM] info: App Started Listening
+[2023-07-28 11:02:12.621 AM] info: App Started Listening
+[2023-07-28 11:06:56.924 AM] info: App Started Listening
+[2023-07-28 11:11:34.840 AM] info: App Started Listening
+[2023-07-28 11:12:59.083 AM] info: App Started Listening
+[2023-07-28 11:18:03.527 AM] info: App Started Listening
+[2023-07-28 11:18:14.896 AM] info: App Started Listening
+[2023-07-28 11:18:21.966 AM] info: App Started Listening
+[2023-07-28 11:18:55.018 AM] info: App Started Listening
+[2023-07-28 11:18:57.138 AM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 11:19:35.306 AM] info: App Started Listening
+[2023-07-28 11:20:16.436 AM] info: App Started Listening
+[2023-07-28 11:20:35.374 AM] info: App Started Listening
+[2023-07-28 11:21:26.121 AM] info: App Started Listening
+[2023-07-28 11:21:28.022 AM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 11:22:14.416 AM] info: App Started Listening
+[2023-07-28 11:22:18.033 AM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 11:22:44.019 AM] info: App Started Listening
+[2023-07-28 11:22:46.069 AM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 11:22:53.824 AM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 11:23:28.174 AM] info: App Started Listening
+[2023-07-28 11:23:50.334 AM] info: App Started Listening
+[2023-07-28 11:29:56.692 AM] info: App Started Listening
+[2023-07-28 11:30:29.209 AM] info: App Started Listening
+[2023-07-28 11:30:32.068 AM] info: App Started Listening
+[2023-07-28 11:30:49.499 AM] info: App Started Listening
+[2023-07-28 11:33:51.086 AM] info: App Started Listening
+[2023-07-28 11:33:54.689 AM] info: App Started Listening
+[2023-07-28 11:33:59.752 AM] info: App Started Listening
+[2023-07-28 11:35:06.214 AM] info: App Started Listening
+[2023-07-28 11:35:08.752 AM] info: App Started Listening
+[2023-07-28 11:35:13.657 AM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 11:38:59.004 AM] info: App Started Listening
+[2023-07-28 11:40:34.898 AM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 12:24:10.269 PM] info: App Started Listening
+[2023-07-28 12:28:31.261 PM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 12:29:23.289 PM] info: App Started Listening
+[2023-07-28 12:30:41.581 PM] info: App Started Listening
+[2023-07-28 12:31:04.481 PM] info: App Started Listening
+[2023-07-28 12:31:17.755 PM] info: App Started Listening
+[2023-07-28 12:31:39.093 PM] info: App Started Listening
+[2023-07-28 12:31:50.304 PM] info: App Started Listening
+[2023-07-28 12:32:36.103 PM] info: App Started Listening
+[2023-07-28 12:32:41.446 PM] info: App Started Listening
+[2023-07-28 12:33:07.292 PM] info: App Started Listening
+[2023-07-28 12:33:11.082 PM] info: App Started Listening
+[2023-07-28 12:33:55.065 PM] info: App Started Listening
+[2023-07-28 12:34:13.249 PM] info: App Started Listening
+[2023-07-28 12:34:36.442 PM] info: App Started Listening
+[2023-07-28 12:34:44.075 PM] info: App Started Listening
+[2023-07-28 12:34:51.069 PM] info: App Started Listening
+[2023-07-28 12:35:01.242 PM] info: App Started Listening
+[2023-07-28 12:35:02.786 PM] info: App Started Listening
+[2023-07-28 12:35:35.523 PM] info: App Started Listening
+[2023-07-28 12:35:50.360 PM] info: App Started Listening
+[2023-07-28 12:35:58.087 PM] info: App Started Listening
+[2023-07-28 12:36:06.144 PM] info: App Started Listening
+[2023-07-28 12:36:27.160 PM] info: App Started Listening
+[2023-07-28 12:37:43.752 PM] info: App Started Listening
+[2023-07-28 12:37:49.842 PM] info: App Started Listening
+[2023-07-28 01:15:33.112 PM] info: Request recieved from localhost on path "/healthcheck" with GET method 
+[2023-07-28 01:15:43.402 PM] info: Request recieved from localhost on path "/get/alltables" with GET method 
+[2023-07-28 01:15:51.871 PM] info: Connected to database
+[2023-07-28 01:15:53.870 PM] info: Query resolved successfully
+[2023-07-28 01:21:21.795 PM] info: App Started Listening
+[2023-07-28 01:25:18.177 PM] info: App Started Listening
+[2023-07-28 01:25:30.473 PM] info: App Started Listening
+[2023-07-28 01:25:40.665 PM] info: App Started Listening
+[2023-07-28 01:26:21.698 PM] info: App Started Listening
+[2023-07-28 01:26:54.639 PM] info: App Started Listening
+[2023-07-28 01:27:42.290 PM] info: App Started Listening
+[2023-07-28 01:27:55.042 PM] info: App Started Listening
+[2023-07-28 01:28:57.959 PM] info: App Started Listening
+[2023-07-28 01:34:22.876 PM] info: App Started Listening
+[2023-07-28 01:36:36.756 PM] info: App Started Listening
+[2023-07-28 01:37:04.006 PM] info: App Started Listening
+[2023-07-28 01:37:09.247 PM] info: App Started Listening
+[2023-07-28 01:39:20.198 PM] info: App Started Listening
+[2023-07-28 01:39:35.246 PM] info: App Started Listening
+[2023-07-28 01:39:53.584 PM] info: App Started Listening
+[2023-07-28 01:40:03.971 PM] info: App Started Listening
+[2023-07-28 01:40:11.028 PM] info: App Started Listening
+[2023-07-28 01:40:23.751 PM] info: App Started Listening
+[2023-07-28 01:40:32.390 PM] info: App Started Listening
+[2023-07-28 01:40:38.232 PM] info: App Started Listening
+[2023-07-28 01:40:46.747 PM] info: App Started Listening
+[2023-07-28 01:40:52.460 PM] info: App Started Listening
+[2023-07-28 01:41:06.434 PM] info: App Started Listening
+[2023-07-28 01:41:13.773 PM] info: App Started Listening
+[2023-07-28 01:41:24.692 PM] info: App Started Listening
+[2023-07-28 01:41:37.255 PM] info: App Started Listening
+[2023-07-28 01:43:08.989 PM] info: App Started Listening
+[2023-07-28 01:43:53.980 PM] info: App Started Listening
